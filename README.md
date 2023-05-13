@@ -2,7 +2,7 @@
 ## ÍNDICE
 * [1. Intro](https://github.com/paulaa55/ClondeGoogle/blob/main/README.md#1-intro) 
 * [2. ¿Qué construí?](https://github.com/paulaa55/ClondeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/paulaa55/ClondeGoogle/blob/main/README.md#objetivo-del-proyecto)
 
 ****
 ## 1. Intro
